@@ -54,7 +54,7 @@ The dataset used in this project is available in the `data` folder.
 ## 🔗 Live Dashboard
 
 👉 **View Live Dashboard:**  
-https://p.powerbi.com/groups/me/reports/c54b5b93-30e8-4c2a-aa66-dacffa2d77d2/6cbf5145e4e05b0ec5c5?experience=power-bi
+[https://app.powerbi.com/groups/me/reports/c54b5b93-30e8-4c2a-aa66-dacffa2d77d2/6cbf5145e4e05b0ec5c5?experience=power-bi]
 
 ---
 
