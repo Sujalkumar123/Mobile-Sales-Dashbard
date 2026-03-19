@@ -1,47 +1,51 @@
-# 💳 Credit Card Analysis Dashboard (Power BI)
+# 📱 Mobile Sales Analysis Dashboard (Power BI)
 
 ✨ **Created by: Sujal Kumar**
 
 ---
 
-## 📄 Dashboard Preview (PDF)
+## 📄 Dashboard Preview
 
-👉 [View Full Dashboard (PDF)](images/dashboard.pdf)
+👉 [View Full Dashboard (PDF)](reports/dashboard.pdf)
 
 ---
 
 ## 📌 Project Overview
-This project presents an **interactive Power BI Dashboard** built to analyze credit card transactions, customer behavior, and financial trends.
+This project presents an **interactive Power BI Dashboard** focused on analyzing **mobile sales data across different cities, brands, and time periods**.
 
-The dashboard helps stakeholders understand:
-- Spending patterns  
-- Customer segmentation  
-- Revenue insights  
-- Credit card usage trends  
+The dashboard provides insights into:
+- Sales performance across cities  
+- Monthly sales trends  
+- Customer ratings  
+- Payment method distribution  
+- Brand-wise and model-wise performance  
 
 ---
 
 ## 🎯 Project Objective
-The main objective of this project is to:
-- Analyze credit card transaction data  
-- Identify key trends & patterns  
-- Provide actionable insights for better decision-making  
+The objective of this project is to:
+- Analyze mobile sales data across India  
+- Identify top-performing cities and brands  
+- Track monthly and daily sales trends  
+- Understand customer preferences and payment behavior  
 
 ---
 
 ## 📂 Dataset Information
 
-The dataset used in this project is available in the `dataset` folder.
+The dataset used in this project is available in the `data` folder.
 
 ### 📁 Files:
-- `dataset/data.csv`
+- `data/data.csv`
 
 ### 📊 Data Includes:
-- Customer details  
-- Transaction amount  
-- Credit card category  
-- Spending behavior  
-- Time-based data (month, quarter, etc.)
+- Mobile brand & model  
+- Sales amount  
+- Quantity sold  
+- Customer ratings  
+- Payment methods (UPI, Debit Card, Credit Card, Cash)  
+- Location (City-wise data)  
+- Time attributes (Month, Day)  
 
 ---
 
@@ -55,25 +59,26 @@ https://p.powerbi.com/groups/me/reports/c54b5b93-30e8-4c2a-aa66-dacffa2d77d2/6cb
 ## 📸 Dashboard Insights (PDF Reports)
 
 ### 🟢 Overview Dashboard
-👉 [View Overview](images/dashboard.pdf)
+👉 [View Overview](reports/dashboard.pdf)
 
 ### 🔵 Insights - March Month
-👉 [View March Insights](images/insights_march_month.pdf)
+👉 [View March Insights](reports/insights_march.pdf)
 
 ### 🔵 Insights - May Month
-👉 [View May Insights](images/insights_may_month.pdf)
+👉 [View May Insights](reports/insights_may.pdf)
 
 ### 🟣 Dataset Insights
-👉 [View Dataset Insights](images/data.pdf)
+👉 [View Dataset Insights](reports/dataset_insights.pdf)
 
 ---
 
 ## 📊 Key Insights
 
-- 📌 High spending observed in specific customer segments  
-- 📌 Certain card categories generate higher revenue  
-- 📌 Monthly trends show variation in transaction volume  
-- 📌 Customer behavior differs based on demographics  
+- 📌 **Top Cities** like Delhi, Mumbai, and Bangalore contribute significantly to total sales  
+- 📌 **Sales peak observed in specific months**, showing seasonal trends  
+- 📌 **UPI & Card payments dominate** over cash transactions  
+- 📌 **Samsung leads in total quantity sold**, while Apple generates high revenue  
+- 📌 Customer ratings are mostly concentrated between **3 to 5 stars**  
 
 ---
 
@@ -88,10 +93,11 @@ https://p.powerbi.com/groups/me/reports/c54b5b93-30e8-4c2a-aa66-dacffa2d77d2/6cb
 
 ## ✨ Features
 
-- Interactive filters & slicers  
-- Dynamic charts and KPIs  
-- User-friendly dashboard design  
-- Insight-driven analytics  
+- Interactive slicers (Month, Brand, Payment Method)  
+- City-wise map visualization  
+- Monthly and daily sales trends  
+- Customer rating analysis  
+- Brand & model performance comparison  
 
 ---
 
@@ -99,9 +105,8 @@ https://p.powerbi.com/groups/me/reports/c54b5b93-30e8-4c2a-aa66-dacffa2d77d2/6cb
 
 1. Clone this repository  
 2. Open Power BI Desktop  
-3. Load dataset from `dataset/data.csv`  
+3. Load dataset from `data/data.csv`  
 4. Open `.pbix` file (if available)  
-5. Explore dashboard  
+5. Explore dashboard using filters  
 
 ---
-
