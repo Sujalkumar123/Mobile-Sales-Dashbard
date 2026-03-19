@@ -8,6 +8,8 @@
 
 👉 [View Full Dashboard (PDF)](reports/dashboard.pdf)
 
+![Full Dashboard Preview](reports/dashboard.png)
+
 ---
 
 ## 📌 Project Overview
@@ -61,14 +63,22 @@ https://p.powerbi.com/groups/me/reports/c54b5b93-30e8-4c2a-aa66-dacffa2d77d2/6cb
 ### 🟢 Overview Dashboard
 👉 [View Overview](reports/dashboard.pdf)
 
+![Overview](reports/dashboard.png)
+
 ### 🔵 Insights - March Month
 👉 [View March Insights](reports/insights_march.pdf)
+
+![March Insights](reports/insights_march.png)
 
 ### 🔵 Insights - May Month
 👉 [View May Insights](reports/insights_may.pdf)
 
+![May Insights](reports/insights_may.png)
+
 ### 🟣 Dataset Insights
 👉 [View Dataset Insights](reports/dataset_insights.pdf)
+
+![Dataset Insights](reports/dataset_insights.png)
 
 ---
 
